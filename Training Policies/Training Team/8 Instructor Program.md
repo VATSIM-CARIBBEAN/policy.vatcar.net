@@ -1,5 +1,5 @@
 ---
-label: "8. Instructor Program"
+label: "8 Instructor Program"
 icon: "file"
 order: 90
 ---

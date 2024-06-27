@@ -1,5 +1,5 @@
 ---
-label: "7. Mentor Program"
+label: "7 Mentor Program"
 icon: "file"
 order: 100
 ---
