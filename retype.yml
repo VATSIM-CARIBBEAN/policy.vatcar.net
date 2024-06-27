@@ -1,9 +1,9 @@
 input: .
 output: .retype
-url: docs.vatcar.net
+url: policy.vatcar.net
 branding:
   title: VATSIM Caribbean
-  label: Docs
+  label: Policies
 links:
   - text: Back to VATCAR
     link: https://www.vatcar.net/
