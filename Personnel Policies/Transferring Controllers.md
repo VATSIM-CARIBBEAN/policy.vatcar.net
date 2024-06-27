@@ -4,8 +4,6 @@ icon: "file"
 order: 90
 ---
 
-
-
 Transfers to VATCAR can happen for several reasons and in several ways. Let’s take a closer look at how you can successfully complete your transfer request.
 
 **Do I meet the requirements to visit?**
