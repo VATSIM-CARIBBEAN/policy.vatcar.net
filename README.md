@@ -1,6 +1,6 @@
 ---
 label: "Welcome"
-icon: "file"
+icon: "star"
 order: 100
 ---
 
