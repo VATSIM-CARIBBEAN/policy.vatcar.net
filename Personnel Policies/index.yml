@@ -2,4 +2,5 @@
 label: "Personnel Policies"
 icon: "file"
 order: 90
+expanded: true
 ---
