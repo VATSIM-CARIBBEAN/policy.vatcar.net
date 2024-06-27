@@ -1,5 +1,5 @@
 ---
-label: "3. Rating Advancement"
+label: "3 Rating Advancement"
 icon: "file"
 order: 80
 ---

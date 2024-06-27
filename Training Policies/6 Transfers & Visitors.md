@@ -1,5 +1,5 @@
 ---
-label: "6. Transfers & Visitors"
+label: "6 Transfers & Visitors"
 icon: "file"
 order: 50
 ---

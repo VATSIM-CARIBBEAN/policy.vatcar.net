@@ -1,5 +1,5 @@
 ---
-label: "5. Testing & Examination"
+label: "5 Testing & Examination"
 icon: "file"
 order: 60
 ---

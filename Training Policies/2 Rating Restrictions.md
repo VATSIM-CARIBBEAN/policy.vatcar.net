@@ -1,5 +1,5 @@
 ---
-label: "2. Rating Restrictions"
+label: "2 Rating Restrictions"
 icon: "file"
 order: 90
 ---

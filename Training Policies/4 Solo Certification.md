@@ -1,5 +1,5 @@
 ---
-label: "4. Solo Certification"
+label: "4 Solo Certification"
 icon: "file"
 order: 70
 ---
