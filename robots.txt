@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://policy.vatcar.net/sitemap.xml.gz
