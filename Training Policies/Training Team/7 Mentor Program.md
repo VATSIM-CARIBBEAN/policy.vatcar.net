@@ -12,4 +12,4 @@ order: 100
 
 7.4 The facility ATM, TA, or Division Training Director reserve the right to remove an individual’s mentor status at any time.
 
-For unauthorized training being conducted, see section 8.11 of the Division Training Policy.
+For unauthorized training being conducted, see [section 8.11](https://policy.vatcar.net/training-policies/training-team/8-instructor-program/) of the Division Training Policy.
