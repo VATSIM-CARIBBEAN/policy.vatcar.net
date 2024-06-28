@@ -4,8 +4,9 @@ icon: "file"
 order: 80
 ---
 
-**NOTAM**
-    Effective 10 March 2024, All VATCAR visiting controllers must hold an S3 rating or higher. Current S1/S2 visiting controllers have until 1 June 2024 to obtain an S3 rating in order to retain visiting status within VATCAR.
+!!! NOTAM
+Effective 10 March 2024, All VATCAR visiting controllers must hold an S3 rating or higher. Current S1/S2 visiting controllers have until 1 June 2024 to obtain an S3 rating in order to retain visiting status within VATCAR.
+!!!
 
 **Visiting Requirements:**
 
@@ -18,4 +19,5 @@ Has had no disciplinary problems within VATSIM in the last year.
 Visiting controllers agree to maintain a minimum of three controlling hours per quarter. We remind you that you must maintain 50% of your total hours at your home facility. This means you can also control your time at home for at least three hours.
 
 **Intradivisional Visiting:**
+
 Currently, the Caribbean Division does not allow S1/S2 controllers to visit adjacent subdivisional facilities.
