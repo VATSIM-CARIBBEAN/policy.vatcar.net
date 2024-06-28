@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.772848565324">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.772848622038">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.5.0.772848565324" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.5.0.772848622038" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.772848565324" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.5.0.772848622038" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.772848565324" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.5.0.772848622038" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -175,21 +175,39 @@
         <span>Do I meet the requirements to visit?</span>
     </div>
     <div class="px-5 py-3 docs-columns-content">
-<p>1.Has it been at least 90 days since my last rating change?</p>
-<ol start="2">
-<li><p>Do I have at least 50 hours on an ATC position corresponding to my current rating, at my home facility?</p>
-</li>
-<li><p>Has it been at least 90 days since my last transfer request?</p>
-</li>
-<li><p>If the last transfer request was rejected, had it been at least 90 days since the rejection notice?</p>
-</li>
+<ol>
+<li>Has it been at least 90 days since my last rating change?</li>
+<li>Do I have at least 50 hours on an ATC position corresponding to my current rating, at my home facility?</li>
+<li>Has it been at least 90 days since my last transfer request?</li>
+<li>If the last transfer request was rejected, had it been at least 90 days since the rejection notice?</li>
 </ol>
     </div>
 </div>
 <p>Your transfer application will be rejected if the answer is NO to any of the above. Please note that a rejection will only further delay your ability to transfer in the future. If, however, the answer is YES to all of the above, please select the transfer method that applies to you below.</p>
-<p><strong>How to transfer from a different VATSIM Region?</strong> You can change your region by visiting <a href="https://my.vatsim.net/user/region">https://my.vatsim.net/user/region</a>. You will need to select Americas as a new region and VATCAR as a new division. You will also need to provide a reason for the transfer. Once your transfer is processed, you will be able to join an FIR of your choice by visiting <a href="https://vatcar.net">https://vatcar.net</a> and selecting a facility.</p>
-<p><strong>How to transfer from an Americas Division?</strong> If you are already a member of VATSIM Americas, You can change your division by emailing your current divisional director and <a href="mailto:vatcar1@vatcar.net">vatcar1@vatcar.net</a>. You will need to provide a reason for the transfer and wait for your transfer to be processed. Once processed, you will be able to join an FIR of your choice by visiting <a href="https://vatcar.net/">https://vatcar.net/</a> and selecting a facility.</p>
-<p><strong>I am a visitor; how do I become a home controller?</strong> You will need to look at both of the options above. Choose the path that best fits your current situation. Please note, that some VATCAR sub-division may require or waive additional training from its visitors becoming home controllers. Be sure to reference facility materials for complete details. If you need assistance, please contact VATCAR1 for more guidance in completing your transfer request.</p>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-dark-650" style="grid-template-columns: repeat(1, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-gray-200 dark:border-dark-650 dark:text-white">
+        <span>How to transfer from a different VATSIM Region?</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<p>You can change your region by visiting <a href="https://my.vatsim.net/user/region">https://my.vatsim.net/user/region</a>. You will need to select Americas as a new region and VATCAR as a new division. You will also need to provide a reason for the transfer. Once your transfer is processed, you will be able to join an FIR of your choice by visiting <a href="https://vatcar.net">https://vatcar.net</a> and selecting a facility.</p>
+    </div>
+</div>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-dark-650" style="grid-template-columns: repeat(1, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-gray-200 dark:border-dark-650 dark:text-white">
+        <span>How to transfer from an Americas Division?</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<p>If you are already a member of VATSIM Americas, You can change your division by emailing your current divisional director and <a href="mailto:vatcar1@vatcar.net">vatcar1@vatcar.net</a>. You will need to provide a reason for the transfer and wait for your transfer to be processed. Once processed, you will be able to join an FIR of your choice by visiting <a href="https://vatcar.net/">https://vatcar.net/</a> and selecting a facility.</p>
+    </div>
+</div>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-dark-650" style="grid-template-columns: repeat(1, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-gray-200 dark:border-dark-650 dark:text-white">
+        <span>I am a visitor; how do I become a home controller?</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<p>You will need to look at both of the options above. Choose the path that best fits your current situation. Please note, that some VATCAR sub-division may require or waive additional training from its visitors becoming home controllers. Be sure to reference facility materials for complete details. If you need assistance, please contact VATCAR1 for more guidance in completing your transfer request.</p>
+    </div>
+</div>
 
                                 
                                 <!-- Required only on API pages -->
