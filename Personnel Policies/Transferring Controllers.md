@@ -6,12 +6,12 @@ order: 90
 
 Transfers to VATCAR can happen for several reasons and in several ways. Let’s take a closer look at how you can successfully complete your transfer request.
 
-**Do I meet the requirements to visit?**
-
-    Has it been at least 90 days since my last rating change?
-    Do I have at least 50 hours on an ATC position corresponding to my current rating, at my home facility?
-    Has it been at least 90 days since my last transfer request?
-    If the last transfer request was rejected, had it been at least 90 days since the rejection notice?
+||| Do I meet the requirements to visit?
+Has it been at least 90 days since my last rating change?
+Do I have at least 50 hours on an ATC position corresponding to my current rating, at my home facility?
+Has it been at least 90 days since my last transfer request?
+If the last transfer request was rejected, had it been at least 90 days since the rejection notice?
+|||
 
 Your transfer application will be rejected if the answer is NO to any of the above. Please note that a rejection will only further delay your ability to transfer in the future. If, however, the answer is YES to all of the above, please select the transfer method that applies to you below.
 
