@@ -29,7 +29,7 @@ A controller is not required to achieve visiting status for the remaining FIRs l
 
 C. Review all applicable facility Standard Operating Procedures (SOPs) and Letters of Agreement (LOAs).
 D. Complete the applicable written knowledge exam for the facility sought.
-E. Complete a training or familiarization session with the VATCAR Training Director (VC3) (or designee) in accordance with GCAP 8.4 and TVCP 6.  The outcome/success of the session is at the discretion of VC3.
+E. Complete training, familiarization session, or an exam with the VATCAR Training Director (VC3) (or designee) in accordance with GCAP 8.4 and TVCP 6.  The outcome/success of the session is at the discretion of VC3.
 
 9.4 No Super Centers within VATCAR contain Tier 1 or Tier 2 facilities, therefore no additional endorsements are required to operate the Super Centers within this policy.
 
