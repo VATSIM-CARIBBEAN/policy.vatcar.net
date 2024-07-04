@@ -23,7 +23,7 @@ B. Be a home or visiting controller in one of the appropriate FIRs listed:
 If any of the above facilities are listed as an Open Skies FIR, an individual can not be considered a Home controller in that facility.
 !!!
 
-!!!warning
+!!!info
 A controller is not required to achieve visiting status for the remaining FIRs listed to receive the appropriate Super Center endorsement.
 !!!
 
