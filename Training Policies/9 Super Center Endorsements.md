@@ -18,14 +18,14 @@ order: 20
         i. FSS - Curacao, Havana, Kingston, Piarco, Port-au-Prince, San Juan, Santo Domingo.
         ii. ANT - Curacao, Port-au-Prince, Santo Domingo.
 
-    !!!warning
-    If any of the above facilities are listed as an Open Skies FIR, an individual can not be considered a Home controller in that facility.
-    !!!
+!!!warning
+If any of the above facilities are listed as an Open Skies FIR, an individual can not be considered a Home controller in that facility.
+!!!
 
-    !!!warning
-    A controller is not required to achieve visiting status for the remaining FIRs listed to receive the appropriate Super Center endorsement.
-    !!!
-    
+!!!warning
+A controller is not required to achieve visiting status for the remaining FIRs listed to receive the appropriate Super Center endorsement.
+!!!
+
     c. Review all applicable facility Standard Operating Procedures (SOPs) and Letters of Agreement (LOAs).
     d. Complete the applicable written knowledge exam for the facility sought.
     e. Complete a training or familiarization session with the VATCAR Training Director (VC3) (or designee) in accordance with GCAP 8.4 and TVCP 6.  The outcome/success of the session is at the discretion of VC3.
