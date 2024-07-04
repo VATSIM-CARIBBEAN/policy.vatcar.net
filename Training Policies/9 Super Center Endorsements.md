@@ -5,9 +5,10 @@ order: 20
 ---
 
 9.1 VATCAR Super Center positions include:
-    A. Caribbean Flight Service Station (FSS) - CARI_FSS, including CARE_FSS and CARW_FSS.
-        i. The FSS excludes the Caribbean airspace of the Nassau FIR and the Piarco Oceanic region.
-    B. Antilles Center (ANT) - ANT_CTR.
+
+A. Caribbean Flight Service Station (FSS) - CARI_FSS, including CARE_FSS and CARW_FSS.
+    i. The FSS excludes the Caribbean airspace of the Nassau FIR and the Piarco Oceanic region.
+B. Antilles Center (ANT) - ANT_CTR.
 
 9.2 No person may control a VATCAR Super Center position without first completing the necessary qualification process (section 3 of this policy) and be listed on the appropriate Super Center roster found at https://vatcar.net/public/division/facility/cari.
 
