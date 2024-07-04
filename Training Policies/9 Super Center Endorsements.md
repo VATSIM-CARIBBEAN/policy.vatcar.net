@@ -13,10 +13,10 @@ order: 20
 
 9.3 To become a qualified Super Center controller, an individual must meet/complete the following criteria:
 
-    A. Possess the ATC rating of C1 or higher, with at least 50 hours controlling with the C1 rating.
-    B. Be a home or visiting controller in one of the appropriate FIRs listed:
-        i. FSS - Curacao, Havana, Kingston, Piarco, Port-au-Prince, San Juan, Santo Domingo.
-        ii. ANT - Curacao, Port-au-Prince, Santo Domingo.
+A. Possess the ATC rating of C1 or higher, with at least 50 hours controlling with the C1 rating.
+B. Be a home or visiting controller in one of the appropriate FIRs listed:
+    i. FSS - Curacao, Havana, Kingston, Piarco, Port-au-Prince, San Juan, Santo Domingo.
+    ii. ANT - Curacao, Port-au-Prince, Santo Domingo.
 
 !!!warning
 If any of the above facilities are listed as an Open Skies FIR, an individual can not be considered a Home controller in that facility.
@@ -26,9 +26,9 @@ If any of the above facilities are listed as an Open Skies FIR, an individual ca
 A controller is not required to achieve visiting status for the remaining FIRs listed to receive the appropriate Super Center endorsement.
 !!!
 
-    C. Review all applicable facility Standard Operating Procedures (SOPs) and Letters of Agreement (LOAs).
-    D. Complete the applicable written knowledge exam for the facility sought.
-    E. Complete a training or familiarization session with the VATCAR Training Director (VC3) (or designee) in accordance with GCAP 8.4 and TVCP 6.  The outcome/success of the session is at the discretion of VC3.
+C. Review all applicable facility Standard Operating Procedures (SOPs) and Letters of Agreement (LOAs).
+D. Complete the applicable written knowledge exam for the facility sought.
+E. Complete a training or familiarization session with the VATCAR Training Director (VC3) (or designee) in accordance with GCAP 8.4 and TVCP 6.  The outcome/success of the session is at the discretion of VC3.
 
 9.4 No Super Centers within VATCAR contain Tier 1 or Tier 2 facilities, therefore no additional endorsements are required to operate the Super Centers within this policy.
 
