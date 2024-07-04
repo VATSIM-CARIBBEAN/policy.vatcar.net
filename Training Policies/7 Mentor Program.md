@@ -1,7 +1,7 @@
 ---
 label: "7 Mentor Program"
 icon: "file"
-order: 100
+order: 40
 ---
 
 7.1 Within VATCAR, a mentor must be S2 rated or higher. Mentors may only train for controlling positions below their certification level, NOT equal with. Example: An S3 mentor may only train S1 and S2 level students. A C1 mentor is permitted to train S3s for center/enroute control at the discretion of the facility ATM and/or TA.

@@ -1,7 +1,7 @@
 ---
 label: "8 Instructor Program"
 icon: "file"
-order: 90
+order: 30
 ---
 
 8.1 An instructor is an individual prepared to dedicate time and effort in passing their gained knowledge and experience to others. This position uses a combination of skill and teaching.
