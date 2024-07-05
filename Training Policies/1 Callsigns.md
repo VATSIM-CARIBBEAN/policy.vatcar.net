@@ -22,7 +22,6 @@ order: 100
 
 - \_XX\_ – signifying the operator’s initials when connecting as an observer
 - \_I\_ – used by instructors while actively instructing on the network
-- \_I\_ – may also be used by informational towers (AFIS) (reserved for events only)
 - \_M\_ – used by mentors while actively mentoring on the network
 - \_L\_ – used by students when solo endorsed to work a position on the network
 - \_S\_ or \_T\_ – used by students working with an instructor/mentor on the network
