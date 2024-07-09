@@ -38,3 +38,7 @@ VATCAR authorizes the restricted use of the following positions based on subdivi
 Radio Operator positions are regularly staffed by C1 rated controllers. The rating required to operate such a position is, however, the same as the associated controller position unless using a lower rating for the Radio Operator position is approved as part of a Tier 1 or Tier 2 Designation. In those cases, the Radio Operator may hold one rating lower than would be required to operate the controller position.
 
 - _RDO – Radio Operator 
+
+2.4 Automatic Flight Information Service (AFIS)
+
+As of July 9, 2024 Controllers are not authorized to open AFIS services.
