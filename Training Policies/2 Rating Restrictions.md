@@ -39,6 +39,6 @@ Radio Operator positions are regularly staffed by C1 rated controllers. The rati
 
 - _RDO – Radio Operator 
 
-2.4 Automatic Flight Information Service (AFIS)
+2.4 Aerodrome Flight Information Service (AFIS)
 
 As of July 9, 2024 Controllers are not authorized to open AFIS services.
