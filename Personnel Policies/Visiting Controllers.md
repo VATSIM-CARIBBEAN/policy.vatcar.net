@@ -5,7 +5,7 @@ order: 80
 ---
 
 !!! NOTAM
-Effective 10 March 2024, All VATCAR visiting controllers must hold an S3 rating or higher. Current S1/S2 visiting controllers have until 1 June 2024 to obtain an S3 rating in order to retain visiting status within VATCAR.
+Effective 10 March 2024, all VATCAR visiting controllers must hold an S3 rating or higher. Current S1/S2 visiting controllers have until 1 June 2024 to obtain an S3 rating in order to retain visiting status within VATCAR.
 !!!
 
 **Visiting Requirements:**
