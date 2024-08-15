@@ -11,7 +11,7 @@ B. Solo Certifications are only valid for a period of 30 days. If necessary, an 
 
 4.2 Students MUST have completed a minimum of three training sessions on the specified position and be deemed competent in all theoretical knowledge required for the position being staffed before requesting solo certification.
 
-4.3 Solo certifications may ONLY be issued by the VATCAR Division Training Director, after the prospective student is recommended by their facility ATM, DATM, or TA.
+4.3 Solo certifications may be issued after the prospective student is recommended by their facility ATM, DATM, or TA. If the facility lacks a division certified instructor, the VATCAR Division Training Director will determine if a solo certification may be issued.
 
 4.4 Students MUST publish a statement in their controller information block while controlling that includes:
 
