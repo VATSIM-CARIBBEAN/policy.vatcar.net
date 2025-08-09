@@ -18,7 +18,7 @@ B. In the event of a second failure of either/both written exam(s), the student 
 
 5.4 The practical evaluation and its outcome shall be conducted and determined only by an instructor (I1 or I3) certified for the applicable facility for which the exam is being conducted.
 A. The type of practical evaluation (OTS) being conducted is at the discretion of the examining instructor (online or sweatbox).
-B. Upon completion of any OTS evaluation, pass or fail, the administering instructor must send the appropriate rating level examination form to exams@vatcar.net for processing. No rating change will be processed without this form filled out by the instructor completing the examination.
+B. Upon completion of any OTS evaluation, pass or fail, the administering instructor must submit a training note (Session Type: OTS) where the OTS Form is attached and the ‘OTS Passed?’ checkmark is marked as required. In the training notes it would be appreciated if the student’s GCAP and Facility exams are included.
 
 5.5 The three possible outcomes following an OTS evaluation are:
 A. Pass (80% or greater)
